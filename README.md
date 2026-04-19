@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou a Kailany Bughi 👋
 
-<!--
-**kailanybughi/kailanybughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Analista de Dados apaixonada por tecnologia, dados e desenvolvimento de soluções.
 
-Here are some ideas to get you started:
+## 💼 Atuação Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Atuo como Analista de Dados
+
+## 🎓 Formação Acadêmica
+
+- 🏫 Cursando Desenvolvimento de Software Multiplataforma na FATEC de Franca, SP
+
+## 🧠 Especialidades
+
+- 🔌 Desenvolvimento e consumo de APIs
+- 🤖 Agentes de IA
+- 🐍 Python
+- ☁️ Conhecimentos em Synapse
+- ⚡ Conhecimentos em PySpark
+
+## 📌 Projeto em Destaque
+
+- 🚀 [entrega_final_dw1](https://github.com/kailanybughi/entrega_final_dw1)
+
+## 📈 Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailanybughi&show_icons=true&theme=dark)
+
+## 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailanybughi&layout=compact&theme=dark)
